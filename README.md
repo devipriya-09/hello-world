@@ -1,3 +1,4 @@
 # hello-world
 This is my first github project
-and entire contribution is gifted to twinsoul.....
+and this entire contribution is gifted to twinsoul
+
