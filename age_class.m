@@ -1,4 +1,4 @@
-prompt = 'enter the age';
+prompt = 'enter the age';  /*input*/
 age = input(prompt) ;
 if (age>=0 && age<2) 
     disp('baby') ;
