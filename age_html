@@ -1,0 +1,3 @@
+<html><div ><label for="birth_date">Birth Date: </label>
+  <input type="text" id="birth_date" /></div>
+<div id="age" style="padding-top:2em;"></div></html>
